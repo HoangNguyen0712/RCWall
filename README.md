@@ -1,6 +1,6 @@
 # Software introduction
 
-This code package is develeloped for predicting the seismic response of reinforced concrete wall structures using deep neural networks. 
+This code package is develeloped the graphical user interface (GUI) for predicting the seismic response of reinforced concrete wall structures using deep neural networks. 
 
 # Developers
 
@@ -20,7 +20,7 @@ Python 3.8 with Numpy version '1.24.3', PySimpleGUI version '4.60.5', and tensor
 
 Step 1: Download all file in this repository into one folder. 
 
-Step 2: Run the python file GUI_RCWallStructures.py to open the graphical user interface (GUI).
+Step 2: Run the python file GUI_RCWallStructures.py to open the GUI.
 
 Step 3: Fill out all the required input variables (consider ground motion type (13 variables) or without consider it (14 input variables)) in the GUI.
 
