@@ -1,6 +1,6 @@
 # Software introduction
 
-This code package is develeloped the graphical user interface (GUI) for predicting the seismic response of reinforced concrete wall structures using deep neural networks. 
+This code package is develeloped for graphical user interface (GUI) to predict the seismic response of reinforced concrete wall structures using deep neural networks. 
 
 # Developers
 
