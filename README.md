@@ -18,10 +18,14 @@ Python 3.8 with Numpy version '1.24.3', PySimpleGUI version '4.60.5', and tensor
 
 # Steps to use the package
 
-Step 1: Download all file in this repository into one folder.
+Step 1: Download all file in this repository into one folder. 
 
-Step 2: Run the python file GUI_RCWallStructures.py.
+Step 2: Run the python file GUI_RCWallStructures.py to open the graphical user interface (GUI).
 
-Step 3: Fill out all the required input variables (consider ground motion type (13 variables) or without consider it (14 input variables)).
+Step 3: Fill out all the required input variables (consider ground motion type (13 variables) or without consider it (14 input variables)) in the GUI.
 
 Step 4: Press "Predict" button to obtain the maximum interstory drift of RC wall structure.
+
+# Note
+
+CNN_InputSet1.h5 and CNN_InputSet2.h5 are the developed models for input set 1 and input set 2, respectively. 
