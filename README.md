@@ -14,7 +14,7 @@ DEVELOPMENT OF SURROGATE MODELS TO PREDICT SEISMIC RESPONSE OF R/C WALL STRUCTUR
 
 # Required software and libraries
 
-Python 3.8 with Numpy version '1.24.3', PySimpleGUI version '4.60.5', and tensorflow version '2.12.0'.
+Python 3.8 with Numpy version '1.23.5', PySimpleGUI version '4.60.5', and tensorflow version '2.12.0'.
 
 # Steps to use the package
 
